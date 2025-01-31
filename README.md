@@ -1,14 +1,19 @@
 # Doomsday_Clock(This is a joke software)
 ## Overview
-This is a joke software that displays a countdown to a fictional doomsday date. It's a GUI application that updates the countdown every minute. Once the doomsday date has passed, the application will no longer run.
+This is a joke GUI software that counts down to the end of the world every minute. The default doomsday date and time is based on a rumored prophecy from a certain place. Once the set doomsday date and time has passed, the software will no longer launch.
 
 ## Features
-Periodic Checks: Checks the website content at specified intervals.
-Change Detection: Detects changes in the website content.
-Popup Notifications: Displays a popup notification when a change is detected.
-Configurable: Allows users to set the monitoring interval and target website.
+- Counts down to the specified doomsday date and time.
+- Updates the countdown every minute.
+- The software becomes unusable after the doomsday date and time has passed.
 
-## Notes
-This software is meant for entertainment purposes only.
-Once the doomsday date has passed, you’ll need to modify the source code to restart the app.
-Requires an active system clock to function properly.
+## Default Doomsday
+The default doomsday date and time is set according to a rumored prophecy.
+
+## Usage
+1. Download and install the software.
+2. Launch the application.
+3. Watch the countdown to the end of the world!
+
+## Note
+This software is intended for entertainment purposes only. Please do not take it seriously.
