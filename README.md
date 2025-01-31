@@ -10,10 +10,5 @@ This is a joke GUI software that counts down to the end of the world every minut
 ## Default Doomsday
 The default doomsday date and time is set according to a rumored prophecy.
 
-## Usage
-1. Download and install the software.
-2. Launch the application.
-3. Watch the countdown to the end of the world!
-
 ## Note
 This software is intended for entertainment purposes only. Please do not take it seriously.
